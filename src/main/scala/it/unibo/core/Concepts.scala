@@ -13,4 +13,5 @@ object Concepts {
       case _ => 0.0
     }
   }
+
 }
